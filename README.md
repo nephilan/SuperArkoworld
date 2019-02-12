@@ -1,1 +1,2 @@
-# HTML and Pure Javascript Game.
+# jeu fait en html et javascript
+
